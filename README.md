@@ -1,9 +1,3 @@
-Perfect 👍
-Here’s your **updated and complete README.md** — including the detail that your ToDo List app uses **Local Storage** to persist tasks even after the app is closed or refreshed.
-It’s formatted neatly for GitHub and ready to publish.
-
----
-
 # 📝 ToDo List App
 
 A simple and elegant **ToDo List web application** built using **React.js**, allowing users to **create**, **edit**, **delete**, and **persist** tasks efficiently. Each task is displayed in a neat card layout containing a **title**, **description**, **date**, and **action icons** for easy management.
