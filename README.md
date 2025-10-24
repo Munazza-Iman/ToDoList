@@ -79,7 +79,7 @@ Follow the steps below to run the project locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/todolist-app.git
+git clone https://github.com/Munazza-Iman/ToDoList.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
@@ -191,16 +191,6 @@ Tasks appear dynamically in the main container as they are added or loaded from 
 
 ## 🧑‍💻 Author
 
-**Your Name**
-📧 [[your.email@example.com](mailto:your.email@example.com)]
-🔗 [Your GitHub Profile](https://github.com/your-username)
+**Munazza Iman**
 
 ---
-
-## 🪪 License
-
-This project is licensed under the **MIT License** – you are free to use, modify, and distribute it.
-
----
-
-Would you like me to insert your **real name, GitHub link, and email** into the Author section so it’s fully ready for upload to GitHub? I can also make a version that includes **preview screenshots** or **deployment instructions (Netlify/Vercel)** if you plan to host it.
